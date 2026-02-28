@@ -16,10 +16,10 @@ function ReactWorkout() {
       {/* <ActiveThingTest /> */}
       {/* <TimerTest /> */}
       {/* <ReducerTimerTest /> */}
-      <WeatherTest />
+      {/* <WeatherTest /> */}
       {/* <HaniwaTest /> */}
       <CharacterText />
-      <ToDoList />
+      {/* <ToDoList /> */}
     </div>
   );
 }
